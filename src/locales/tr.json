@@ -1,0 +1,20 @@
+{
+  "common": { "complus": "Complus Network" },
+  "header": {
+    "avalanche": "Avalanche",
+    "heco": "Huobi ECO Chain",
+    "bnb": "BNB Smart Chain",
+    "matic": "Polygon Network",
+    "info1": "ERC-20 tokenlar için, çok zincirli, merkezi olmayan bir takas protokolüdür.",
+    "info2": "Ucuz, hızlı ve verimli ticarete olanak verir. Otomatik bir likidite protokolüdür. Pratik anlamda bu, birbiriyle uyumlu likidite havuzları ve bunlara karşılık gelen piyasalar oluşturmak için standart bir yol tanımlayan şablon akıllı sözleşmeler kullanıldığı anlamına gelir.",
+    "litepaper": "Döküman"
+  },
+  "chainBoxes": {
+    "farm": "Çiftlik",
+    "chart": "Grafik",
+    "dex": "Takas"
+  },
+  "footer": {
+    "reserved": "Tüm hakları saklıdır"
+  }
+}

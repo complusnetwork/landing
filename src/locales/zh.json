@@ -1,0 +1,20 @@
+{
+  "common": { "complus": "Complus Network" },
+  "header": {
+    "avalanche": "Avalanche",
+    "heco": "Huobi ECO Chain",
+    "bnb": "BNB Smart Chain",
+    "matic": "Polygon Network",
+    "info1": "是ERC-20代币的多链去中心化交易协议.",
+    "info2": "它允许廉价、快速和高效的交易. 它是一种自动流动性协议. 实际上，这意味着存在模板智能合约，它定义了一种标准方法来使流动性池和相应的市场相互兼容.",
+    "litepaper": "文档"
+  },
+  "chainBoxes": {
+    "farm": "农场",
+    "chart": "图表",
+    "dex": "交换"
+  },
+  "footer": {
+    "reserved": "版权所有"
+  }
+}

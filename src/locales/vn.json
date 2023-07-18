@@ -1,0 +1,20 @@
+{
+  "common": { "complus": "Complus Network" },
+  "header": {
+    "avalanche": "Avalanche",
+    "heco": "Huobi ECO Chain",
+    "bnb": "BNB Smart Chain",
+    "matic": "Polygon Network",
+    "info1": "là một giao thức trao đổi phi tập trung đa chuỗi dành cho mã thông báo ERC-20.",
+    "info2": "Nó cho phép giao dịch rẻ, nhanh chóng và hiệu quả. Nó là một giao thức thanh khoản tự động. Về mặt thực tế, điều này có nghĩa là có các hợp đồng thông minh mẫu xác định một cách tiêu chuẩn để tạo ra các nhóm thanh khoản và các thị trường tương ứng tương thích với nhau.",
+    "litepaper": "tài liệu"
+  },
+  "chainBoxes": {
+    "farm": "nông trại",
+    "chart": "đồ thị",
+    "dex": "Dex"
+  },
+  "footer": {
+    "reserved": "Đã đăng ký Bản quyền"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "common": { "complus": "Complus Network" },
+  "header": {
+    "avalanche": "Avalanche",
+    "heco": "Huobi ECO Chain",
+    "bnb": "BNB Smart Chain",
+    "matic": "Polygon Network",
+    "info1": "es un protocolo de intercambio descentralizado multicadena para tokens ERC-20.",
+    "info2": "Permite un comercio barato, rápido y eficiente. Es un protocolo de liquidez automatizado. En términos prácticos, esto significa que hay plantillas de contratos inteligentes que definen una forma estándar de hacer fondos de liquidez y mercados correspondientes que sean compatibles entre sí.",
+    "litepaper": "Documento"
+  },
+  "chainBoxes": {
+    "farm": "granja",
+    "chart": "cuadro",
+    "dex": "Dex"
+  },
+  "footer": {
+    "reserved": "Reservados todos los derechos"
+  }
+}

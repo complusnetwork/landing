@@ -1,0 +1,15 @@
+{
+  "short_name": "COMPLUS NETWORK",
+  "name": "COMPLUS NETWORK | Multichain Decentralized Protocol",
+  "icons": [
+    {
+      "src": "./img/favicon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#393939",
+  "background_color": "#fff"
+}
